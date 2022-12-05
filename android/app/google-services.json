@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "885317959303",
+    "project_id": "dcm-autogate",
+    "storage_bucket": "dcm-autogate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885317959303:android:e79a7c46a9a3dd1be14222",
+        "android_client_info": {
+          "package_name": "com.digicraft.mobile.homesecurity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885317959303-91rk2dm36qrqj9n0in7db5fdphtrf0cr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digicraft.mobile.homesecurity",
+            "certificate_hash": "6863bf946e83791dc6d8ca69289bc459e4de7bf2"
+          }
+        },
+        {
+          "client_id": "885317959303-ctghi5i6ngmmdlbkdkfqlk58ogu2i2gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbnDq9gFJar42XWj16IsuTDu_zCsnAKj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885317959303-ctghi5i6ngmmdlbkdkfqlk58ogu2i2gb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "885317959303-m61rrv1bfmud2b30i5ocd36dun323o4b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.whatif.mobile.homesecurity"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885317959303:android:8e448ff4420d264be14222",
+        "android_client_info": {
+          "package_name": "com.whatif.mobile.homesecurity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885317959303-ll0lotgf61ss5k1ohsfaiqtuc4art989.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whatif.mobile.homesecurity",
+            "certificate_hash": "6863bf946e83791dc6d8ca69289bc459e4de7bf2"
+          }
+        },
+        {
+          "client_id": "885317959303-ctghi5i6ngmmdlbkdkfqlk58ogu2i2gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbnDq9gFJar42XWj16IsuTDu_zCsnAKj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885317959303-ctghi5i6ngmmdlbkdkfqlk58ogu2i2gb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "885317959303-m61rrv1bfmud2b30i5ocd36dun323o4b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.whatif.mobile.homesecurity"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

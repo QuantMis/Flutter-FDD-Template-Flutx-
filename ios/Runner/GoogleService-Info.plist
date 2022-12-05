@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>885317959303-m61rrv1bfmud2b30i5ocd36dun323o4b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.885317959303-m61rrv1bfmud2b30i5ocd36dun323o4b</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>885317959303-91rk2dm36qrqj9n0in7db5fdphtrf0cr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA1d7Xhtd_wV-f75p51aAIERRjBShgqRrA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>885317959303</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.whatif.mobile.homesecurity</string>
+	<key>PROJECT_ID</key>
+	<string>dcm-autogate</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dcm-autogate.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:885317959303:ios:0482d0bc93bc2ff1e14222</string>
+</dict>
+</plist>
